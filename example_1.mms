@@ -1,6 +1,6 @@
 // example_1.mms
 
-			LOC    	Data_Segment
+			// LOC    	Data_Segment
 			// $3 = 15	
 Main      	INCH $3,0
 			INCMH $3,0
